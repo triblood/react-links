@@ -8,3 +8,9 @@ React Docs - https://facebook.github.io/react/docs/installation.html
 4 - Link | React Native -> https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html <br>
 5 - Link | How to Structure Your React Project -> https://daveceddia.com/react-project-structure/ <br>
 6 - Link | How to Make a Simple Twitter Clone with React Native -> https://hackernoon.com/how-to-make-a-simple-twitter-clone-with-react-native-4b6c45940583 <br>
+
+
+
+
+# Links para estudar JS
+1 - Link | Free Programming Books -> https://github.com/EbookFoundation/free-programming-books/blob/master/javascript-frameworks-resources.md
