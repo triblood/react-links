@@ -14,3 +14,7 @@ React Docs - https://facebook.github.io/react/docs/installation.html
 
 # Links para estudar JS
 1 - Link | Free Programming Books -> https://github.com/EbookFoundation/free-programming-books/blob/master/javascript-frameworks-resources.md
+
+
+# Links recursos React
+1 - Link | Awesome React -> https://github.com/enaqx/awesome-react
